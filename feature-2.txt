@@ -1,2 +1,7 @@
 this was alright before
-error
+<<<<<<< HEAD
+bug fix chesna
+correct echo hello world haha
+
+=======
+>>>>>>> parent of 173d30a (error add chesna)
